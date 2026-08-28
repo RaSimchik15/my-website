@@ -22,13 +22,7 @@ main {
 .post img {
   border-radius: 8px;
 }
-.welcome-block {
- background: #dadfe4;
- padding: 15px;
- border-radius: 10px;
- margin: 20px;
- width: fit-content;
-}
+
  
  footer {
    background-color: #ddd;
